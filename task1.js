@@ -7,3 +7,5 @@ const capitalisedCats = cats.map(
 );
 
 console.log(capitalisedCats);
+
+
